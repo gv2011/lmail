@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gv2011/util.svg?branch=dev)](https://travis-ci.org/gv2011/util)
+[![Build Status](https://travis-ci.org/gv2011/lmail.svg?branch=dev)](https://travis-ci.org/gv2011/lmail)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # lmail
