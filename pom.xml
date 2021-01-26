@@ -8,7 +8,7 @@
   </parent>
 
   <artifactId>lmail</artifactId>
-  <version>0.2</version>
+  <version>0.3-SNAPSHOT</version>
   <url>https://github.com/gv2011/lmail</url>
 
   <properties>
@@ -45,7 +45,7 @@
     <connection>scm:git:git@github.com:gv2011/lmail.git</connection>
     <developerConnection>scm:git:git@github.com:gv2011/lmail.git</developerConnection>
     <url>https://github.com/gv2011/lmail</url>
-    <tag>lmail-0.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
